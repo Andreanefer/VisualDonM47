@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang=fr>
+    <head>
+        <title> Bouger un SVG à l'aide de JS et CSS</title>
+        <meta charset="UTF-8">
+        <style>
+            svg {
+            animation-duration: 60s;
+            animation-name: train;
+            animation-iteration-count : infinite ;
+            animation-direction: alternate, reverse, normal;
+          }
+          @keyframes train {
+            from {
+                margin-left: 100%;
+                width: 300%;
+            }
+            to {
+                margin-left: 0%;
+                width: 100%;
+            }
+          }
+        </style>
+    </head>
+    <body>
+        <svg width="3000" height="1000">
+            <circle cx="480" cy="600" r="40" fill="indianred" />
+            <circle cx="380" cy="600" r="40" fill="indianred" />
+             <circle cx="1300" cy="600" r="40" fill="indianred" />
+            <circle cx="1200" cy="600" r="40" fill="indianred" />
+               <circle cx="1820" cy="600" r="40" fill="indianred" />
+            <circle cx="1720" cy="600" r="40" fill="indianred" />
+             <circle cx="2670" cy="600" r="40" fill="indianred" />
+            <circle cx="2570" cy="600" r="40" fill="indianred" />
+             <circle cx="300" cy="400" r="200" fill="steelblue" />
+              <circle cx="2740" cy="400" r="200" fill="steelblue" />
+             <rect x="1450" y="230" width="120" height="300" fill="grey" />
+            <rect x="300" y="200" width="1200" height="400" fill="steelblue" />
+            <rect x="1540" y="200" width="1200" height="400" fill="steelblue" />
+          </svg>
+
+
+    </body>
+</html>
