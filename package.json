@@ -1,0 +1,28 @@
+{
+  "name": "VisualDon",
+  "version": "1.0.0",
+  "description": "Il s'agit du cours de visualisation de données du département COMEM+ à la HEIG-VD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreanefer/VisualDonM47.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreanefer/VisualDonM47/issues"
+  },
+  "homepage": "https://github.com/Andreanefer/VisualDonM47#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "d3": "^5.15.0"
+  }
+}
