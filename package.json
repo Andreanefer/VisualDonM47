@@ -4,7 +4,8 @@
   "description": "Il s'agit du cours de visualisation de données du département COMEM+ à la HEIG-VD.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "batons": "parcel 20200228-Cours2-StuctureDeDonneesEnJS/src/index.html --out-dir 20200228-Cours2-StuctureDeDonneesEnJS/dist"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "d3": "^5.15.0"
+    "d3": "^5.15.0",
+    "node-fetch": "^2.6.0"
   }
 }
