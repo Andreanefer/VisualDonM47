@@ -1,0 +1,2 @@
+Quel est le message que Hans Rosling veut faire passer en montrant ce graphique ?
+Il montre l'évolution de la santé et de l'économie sur 200 pays disposé sur un graphe. Le graphe est représenté avec deux axes : l'axe x représente la richesse et l'axe y représente la vie de santé. Plus les pays se dévloppent, plus le pays devient riche et sont en bonne santé
