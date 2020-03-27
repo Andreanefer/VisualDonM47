@@ -1,0 +1,5 @@
+1. Comment et pourquoi le code est t-il divisé en plusieurs fichier ?
+D'abord, il y a le fichier http qui est le fichier qui indique qu'il s'agit d'une page web qui regroupe la balise principale, le calvas et le lien ou se trouve les données. Le fichier CSS pour la mise en page du graphique et de la page et un fichier en JS pour concevoir les données du graphiques ainsi que de regrouper les différents scripts car l'entier du code JS sera diviser en plusieurs ficher afin de ne pas avoir tout dans un seul fichier. Comme cela, il est facile d'utiliser des bout de code qu'on n'aurai besoin pour un notre porjet. Il sera aussi plus facile de repérer s'il y a une erreur (pas d'affichage, bug,...).
+
+2. Comment le nom du pays est t-il afficher quand la souris passe sur une bulle ?
+Nous avons créer un fichier elements.js qui regroupe les légendes. Dans ce fichier, nous avons conçu un élément <text> afin que dans cet élément, le pays se péacera à cette endroit. Pour ce faire, nous avons utilisé bubblesGroup.append('text') et rajouter une fonction mouseover afin que lorsque la souris passe sur un cercle, la légende s'affiche. 

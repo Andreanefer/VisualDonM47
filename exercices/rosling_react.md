@@ -1,0 +1,5 @@
+1. Comment les bulles sont-elles créées dans cette version ?
+D'abord, on créer une nouvelle composante qui génère les bulles. Pour ce faire, il y a deux valeurs importants : data pour les données pour une bulle en particulier et yearIndex pour la valeur pour une année particulière. Avec JSX, il est possible d'avoir des attributs dynamiques. Les attributs statiques sont en HTML. Nous allons maintenant créer une nouvelles variable : Bubbles qui va être un tableau regroupant les années. Les années seront complétés avec une fonction qui reprend les données qui se trouve dans la variable Bubule. 
+
+2. Comment les données sont elles jointes aux éléments DOM avec react ?
+Nous avons utilisé une librairie au nom de JSX. Nous avons modifier l'extension data.json en data.jsx. Nous avons importer React et react-dom pour oindre les éléments DOM.
