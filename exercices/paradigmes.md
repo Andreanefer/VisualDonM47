@@ -1,0 +1,5 @@
+1. Décrivez ce qu'est la programmation fonctionelle :
+Il s'agit d'un programme qui fonctionne ligne par ligne. C'est-à-dire que le code va être lu de haut en bas. Il est possible de comparer comme une recette de cuisine : nous avons une recette, dans la recette, il y a plusieurs ingrédients et au final, il y a un plat. La programation fonctonnelle, c'est la même chose : une fonction appelle plusieurs varaibles, mais il retourne seulement un résultat.
+
+2. Décrivez ce qu'est la programmation orientée objets :
+La programmation orientée objets fonctionne avec d'un constructeur. Imaginon qu'il faut construire un skateboard : il faut une planche et des roues (pour faires simple). Sur le programme principal, on va appeler le constructeur "planche" par exemple pour demander de fournir une planche. Sur le même programme principal, on appelle aussi un autre constructeur qui s'appelle "roue" pour construire les roues. Les constructeurs peut recevoir aucun paramèrtre, un paramètre ou plusieurs paramètres. Ainsi dans le programme principale, il sera possible d'assembler la planche et les roues pour construire le skateboard.
