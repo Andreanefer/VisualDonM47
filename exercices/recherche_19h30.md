@@ -1,1 +1,1 @@
-Test
+node scriptes/extractEpisodes where getSegments = sport
