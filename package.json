@@ -25,6 +25,8 @@
   },
   "dependencies": {
     "d3": "^5.15.0",
+    "dayjs": "^1.8.23",
+    "ndjson-cli": "^0.3.1",
     "node-fetch": "^2.6.0",
     "xlsx": "^0.15.6"
   }
