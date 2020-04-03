@@ -1,1 +1,1 @@
-curl "https://api.openstreetmap.org/api/0.6/map?bbox=6.7726,46.5162,7.0009,46.4144" \ | osmtogeojson > riviera.json
+https://github.com/Andreanefer/VisualDonM47/tree/master/20200403-Cours5-ScrapingAndCartographie/Cartes
