@@ -24,10 +24,13 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "clt": "^0.1.2",
     "d3": "^5.15.0",
     "dayjs": "^1.8.23",
     "ndjson-cli": "^0.3.1",
     "node-fetch": "^2.6.0",
+    "xcode": "^3.0.0",
     "xlsx": "^0.15.6"
   }
 }
