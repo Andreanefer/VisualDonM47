@@ -8,6 +8,7 @@
 
 **Questions sur le projet**
 *D'où viennent les données (où, qui, pourquoi...) ?*
+
 Les données viennent du site de l'office fédérale de la statistique (https://www.bfs.admin.ch/bfs/fr/home/statistiques/mobilite-transports/themes-transversaux/transports-publics.assetdetail.11207456.html). Ces données montrent l'évolution au fil du temps de l'augmentation de voyageur et de marchandises ainsi que l'impact qu'il y a autour des transports publics (Consomation d'énergie, surface utilisé, nombre d'employé, nombre d'entreprise, infrastructure, finance, ...). Un cytoyen peut savoir combien côute cette infrastructure (Vu qu'une grande partie est payée par les impôts)
 
 *Comment ont-elles été transformées ?*
