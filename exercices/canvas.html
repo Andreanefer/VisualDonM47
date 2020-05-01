@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Exercice canvas</title>
+  </head>
+  <body>
+    <canvas id="dessin" width="10000" height="5000"></canvas>
+    <script>
+
+const canvas = document.getElementById('dessin')
+const context = canvas.getContext('2d')
+
+// DESSINEZ ICI
+context.fillStyle = 'indianred'
+    context.fillRect(600, 300, 1000 / 2, 1000 / 2)
+
+context.fillStyle = 'grey'
+    context.fillRect(815, 650, 150 / 2, 300 / 2)
+
+context.fillStyle = 'Black'
+    context.fillRect(650, 660, 220 / 2, 150 / 2)
+
+context.fillStyle = 'Yellow'
+    context.fillRect(940, 660, 220 / 2, 150 / 2)
+
+context.fillStyle = 'Yellow'
+    context.fillRect(650, 450, 220 / 2, 150 / 2)
+
+context.fillStyle = 'Black'
+    context.fillRect(940, 450, 220 / 2, 150 / 2)
+
+    </script>
+  </body>
+</html>
