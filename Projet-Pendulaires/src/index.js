@@ -1,5 +1,5 @@
 import * as d3 from 'd3';
-const DATA = require('DistanceTrainKM.json')
+const DATA = require('../data/DistanceTrainKMEnTrain.json')
 
 const WIDTH = 1000
 const HEIGHT = 500
