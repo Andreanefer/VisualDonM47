@@ -1,7 +1,11 @@
+**UPDATE** : Mardi 5 mai 2020 à 13h26
+
 **Done**
 - Graphique représentant le nombre de voyageur en Train
 
-**A Faire**
+**En cours**
+
+**Todo**
 - Réaliser le graphique sur le nombre de personne qui prennent les transports publics routiers
 - Réaliser le graphique représentant le nombre de km parcouru en train
 - Réaliser le graphique représentant le nombre de km parcouru sur route
