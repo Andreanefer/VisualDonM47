@@ -1,4 +1,4 @@
-**UPDATE** : Mardi 5 mai 2020 à 13h26
+**UPDATE** : Mardi 5 mai 2020 à 13h28
 
 **Done**
 - Graphique représentant le nombre de voyageur en Train
@@ -21,7 +21,7 @@ J'ai repris les données qui m'intéréssé est je l'ai mises dans un autre docu
 
 - *Un lien vers le code source de votre visualisation :*
 
-https://github.com/Andreanefer/VisualDonM47/tree/master/Projet/src
+https://github.com/Andreanefer/VisualDonM47/tree/master/Projet/
 
 - *Un lien vers votre visualisation publiée :*
 
