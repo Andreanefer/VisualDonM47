@@ -1,0 +1,191 @@
+[
+  {
+    "annee": 1990,
+    "passagers_train": 341659,
+    "passagers_tpr": 0,
+    "passagers_bateau": 10001,
+    "km_train": 12771,
+    "km_tpr": 0,
+    "km_bateau": 0
+  },
+  {
+    "annee": 1995,
+    "passagers_train": 297172,
+    "passagers_tpr": 0,
+    "passagers_bateau": 9984,
+    "km_train": 11802.9,
+    "km_tpr": 0,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2000,
+    "passagers_train": 319308,
+    "passagers_tpr": 1111505,
+    "passagers_bateau": 11031,
+    "km_train": 12689.8,
+    "km_tpr": 3427.8,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2001,
+    "passagers_train": 315617,
+    "passagers_tpr": 1125767,
+    "passagers_bateau": 10955,
+    "km_train": 13362.9,
+    "km_tpr": 3605,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2002,
+    "passagers_train": 334034,
+    "passagers_tpr": 1136239,
+    "passagers_bateau": 10032,
+    "km_train": 14208.5,
+    "km_tpr": 3665.5,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2003,
+    "passagers_train": 356753,
+    "passagers_tpr": 1147005,
+    "passagers_bateau": 10955,
+    "km_train": 14572,
+    "km_tpr": 3756.3,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2004,
+    "passagers_train": 368782,
+    "passagers_tpr": 1162369,
+    "passagers_bateau": 11007,
+    "km_train": 14978.6,
+    "km_tpr": 3780.5,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2005,
+    "passagers_train": 400876,
+    "passagers_tpr": 1175039,
+    "passagers_bateau": 10960,
+    "km_train": 16209.8,
+    "km_tpr": 3857.9,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2006,
+    "passagers_train": 418052,
+    "passagers_tpr": 1205397,
+    "passagers_bateau": 11373,
+    "km_train": 16645.9,
+    "km_tpr": 3888.6,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2007,
+    "passagers_train": 444802,
+    "passagers_tpr": 1250729,
+    "passagers_bateau": 11177,
+    "km_train": 17502.1,
+    "km_tpr": 3963.5,
+    "km_bateau": 0
+  },
+  {
+    "annee": 2008,
+    "passagers_train": 474382,
+    "passagers_tpr": 1309850,
+    "passagers_bateau": 11131,
+    "km_train": 17849.2,
+    "km_tpr": 3819.6,
+    "km_bateau": 155.5
+  },
+  {
+    "annee": 2009,
+    "passagers_train": 484653,
+    "passagers_tpr": 1348971,
+    "passagers_bateau": 11827,
+    "km_train": 18642.4,
+    "km_tpr": 3901.1,
+    "km_bateau": 169.6
+  },
+  {
+    "annee": 2010,
+    "passagers_train": 506306,
+    "passagers_tpr": 1373763,
+    "passagers_bateau": 10995,
+    "km_train": 19251.6,
+    "km_tpr": 3986.9,
+    "km_bateau": 154.4
+  },
+  {
+    "annee": 2011,
+    "passagers_train": 526056,
+    "passagers_tpr": 1408439,
+    "passagers_bateau": 11500,
+    "km_train": 19548.8,
+    "km_tpr": 4099.4,
+    "km_bateau": 157.5
+  },
+  {
+    "annee": 2012,
+    "passagers_train": 527895,
+    "passagers_tpr": 1457287,
+    "passagers_bateau": 11839,
+    "km_train": 19340.4,
+    "km_tpr": 4212.2,
+    "km_bateau": 168.1
+  },
+  {
+    "annee": 2013,
+    "passagers_train": 554614,
+    "passagers_tpr": 1488785,
+    "passagers_bateau": 11002,
+    "km_train": 19525.2,
+    "km_tpr": 4252.1,
+    "km_bateau": 153.3
+  },
+  {
+    "annee": 2014,
+    "passagers_train": 581274,
+    "passagers_tpr": 1484516,
+    "passagers_bateau": 11035,
+    "km_train": 20090,
+    "km_tpr": 4315.6,
+    "km_bateau": 150.2
+  },
+  {
+    "annee": 2015,
+    "passagers_train": 601273,
+    "passagers_tpr": 1506724,
+    "passagers_bateau": 11213,
+    "km_train": 20474.8,
+    "km_tpr": 4396.8,
+    "km_bateau": 152.1
+  },
+  {
+    "annee": 2016,
+    "passagers_train": 620009,
+    "passagers_tpr": 1531426,
+    "passagers_bateau": 11333,
+    "km_train": 20893.5,
+    "km_tpr": 4479.1,
+    "km_bateau": 152.3
+  },
+  {
+    "annee": 2017,
+    "passagers_train": 626102,
+    "passagers_tpr": 1535303,
+    "passagers_bateau": 11373,
+    "km_train": 20953.1,
+    "km_tpr": 4487.2,
+    "km_bateau": 145.4
+  },
+  {
+    "annee": 2018,
+    "passagers_train": 625168,
+    "passagers_tpr": 1540816,
+    "passagers_bateau": 12359,
+    "km_train": 20680.6,
+    "km_tpr": 4498.2,
+    "km_bateau": 159.5
+  }
+]
