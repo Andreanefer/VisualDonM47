@@ -1,5 +1,5 @@
 import * as d3 from 'd3';
-import * as billboard from 'billboard';
+import * as bb from 'billboard';
 
 const DATA = require('./data/data.json') ;
 
