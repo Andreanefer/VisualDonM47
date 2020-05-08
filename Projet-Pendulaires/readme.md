@@ -31,7 +31,7 @@ https://github.com/Andreanefer/VisualDonM47/tree/master/Projet/
 
 - Un lien vers votre visualisation publiée :
 
-https://andreanefer.github.io
+https://andreanefer.github.io/index
 
 - Quel scripte je dois utiliser pour recréer le site à partir de votre code ?
 
