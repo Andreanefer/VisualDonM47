@@ -1,19 +1,20 @@
-UPDATE : Vendredi 8 mai 2020 à 12h06
+UPDATE : Vendredi 8 mai 2020 à 15h13
 
 Done
-
-
-En cours
-
 - Graphique représentant le nombre de voyageur en Train
 - Graphique représentant le nombre de voyageur en TPR
 - Graphique représentant le nombre de voyageur en Bateau
 - Graphique représentant le nombre de km parcouru en Train
 - Graphique représentant le nombre de km parcouru en TPR
 - Graphique représentant le nombre de km parcouru en Bateau
+- **Les 6 jeux de données sont regroupées dans un seul graphique**
+
+En cours
+- Afficher le graphique
+
 
 Todo
-
+- Completer le readme
 
 Questions sur le projet
 
