@@ -1,7 +1,8 @@
 import * as d3 from 'd3';
-import * as bb from 'billboard';
+import * as bb from 'billboard.js';
+import 'billboard.js/dist/billboard.css'
 
-const DATA = require('./data/data.json') ;
+const data = require('./data/data.json') ;
 
 bb.generate({
   DATA: {
@@ -30,7 +31,7 @@ bb.generate({
   axis: {
     x: {
       type: 'category',
-      categories: annee.map(({ annee }) => annee)
+      categories: data.map(({ annee }) => annee)
     },
     //Definition de l'axe y
     y: {
@@ -45,5 +46,5 @@ bb.generate({
       label: 'Nombre de km parcouru (en million)',
     }
   },
-  bindto: dessinerGraphiquePendulaires,
+  bindto: '#graphiquePendulaire',
 })
