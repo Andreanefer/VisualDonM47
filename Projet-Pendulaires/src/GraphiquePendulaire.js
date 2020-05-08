@@ -5,7 +5,7 @@ import 'billboard.js/dist/billboard.css'
 const data = require('./data/data.json') ;
 
 bb.generate({
-  DATA: {
+  data: {
     json: {
       passagers_train: data.map(({ passagers_train }) => passagers_train),
       passagers: data.map(({ passagers_tpr }) => passagers_tpr),
