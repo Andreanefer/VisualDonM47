@@ -1,6 +1,14 @@
 UPDATE : Vendredi 8 mai 2020 à 15h13
 
-Done
+**Concepte**
+Le graphique représente l'utilisation des transports publics en Suisse de l'année 1990, 1995 et de l'année 2000 jusqu'à 2018. Il est divisé en deux parties :
+- un graphique en batons représentant le nombre de passagers/voyageurs qui utilise le moyen de transport (train/TPR/Bateau)
+- un graphique en graphe représentant le nombre de km total que les passagers/voyageurs qui ont parcourus avec les transports publics (train/TPR*/Bateau)
+
+________
+TPR = Transports Publics Routiers
+
+**Done**
 - Graphique représentant le nombre de voyageur en Train
 - Graphique représentant le nombre de voyageur en TPR
 - Graphique représentant le nombre de voyageur en Bateau
@@ -9,14 +17,14 @@ Done
 - Graphique représentant le nombre de km parcouru en Bateau
 - **Les 6 jeux de données sont regroupées dans un seul graphique**
 
-En cours
+**En cours**
 - Afficher le graphique
 
 
-Todo
+**Todo**
 - Completer le readme
 
-Questions sur le projet
+**Questions sur le projet**
 
 - D'où viennent les données (où, qui, pourquoi...) ?
 
@@ -32,7 +40,7 @@ https://github.com/Andreanefer/VisualDonM47/tree/master/Projet/
 
 - Un lien vers votre visualisation publiée :
 
-https://andreanefer.github.io/index
+https://andreanefer.github.io/src/index
 
 - Quel scripte je dois utiliser pour recréer le site à partir de votre code ?
 
