@@ -6,17 +6,25 @@ const DATA = require('./data/data.json') ;
 bb.generate({
   data: {
     json: {
-      passagers: data.map(({ passagers }) => passagers),
-      km: data.map(({ km }) => km),
+      passagers_train: data.map(({ passagers_train }) => passagers_train),
+      passagers: data.map(({ passagers_tpr }) => passagers_tpr),
+      passagers: data.map(({ passagers_bateau }) => passagers_bateau),
+      km_train: data.map(({ km_train }) => km_train),
+      km_tpr: data.map(({ km_tpr }) => km_tpr),
+      km_bateau: data.map(({ km_bateau }) => km_bateau),
     },
     //Definition des axes y
     axes: {
-      passagers: 'y',
-      km: 'y2',
+      passagers_tpr: 'y',
+      km_train: 'y2',
     },
     types: {
-      passagers:"bar",
-      km:"line",
+      passagers_train:"bar",
+      passagers_tpr:"bar",
+      passagers_bateau:"bar",
+      km_train:"line",
+      km_tpr:"line",
+      km_bateau:"line",
     },
   },
   axis: {
@@ -24,14 +32,14 @@ bb.generate({
       type: 'category',
       categories: annee.map(({ annee }) => annee)
     },
-    // Nommer l'axe y
+    //Definition de l'axe y
     y: {
       tick:{
         format: x => `${x/1000}k`
       },
       label: 'Nombre de passagers (en millier)',
     },
-    // Montrer et nommer l'axe y2
+    //Montage + définition du 2e axe y
     y2: {
       show: true,
       label: 'Nombre de km parcouru (en million)',
