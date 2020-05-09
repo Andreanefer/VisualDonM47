@@ -1,8 +1,7 @@
-import * as d3 from 'd3';
-import * as bb from 'billboard.js';
+import bb from 'billboard.js'
 import 'billboard.js/dist/billboard.css'
 
-const data = require('./data/data.json') ;
+const data = require('../data/data.json') ;
 
 bb.generate({
   data: {
