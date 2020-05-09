@@ -1,9 +1,10 @@
-import bb from 'billboard.js'//tetete
-import 'billboard.js/dist/billboard.css' //Dois-je mettre le chemin exacte ?
+import bb from 'billboard';//tetete
+import 'billboard.js/dist/billboard.css'; //Dois-je mettre le chemin exacte ?
 
-const data = require('../data/data.json') ; //Verifier c'est bon
 
-console.log("")
+const data = require('../data/data.json') ; 
+
+console.log("Test")
 
 bb.generate({
   
