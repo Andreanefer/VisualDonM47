@@ -1,9 +1,10 @@
-import bb from 'billboard.js'
+import bb from 'billboard.js';
 import 'billboard.js/dist/billboard.css'
 
 const data = require('../data/data.json') ;
 
 bb.generate({
+  bindto: '#graphiquePendulaire',
   data: {
     json: {
       passagers_train: data.map(({ passagers_train }) => passagers_train),
@@ -11,7 +12,7 @@ bb.generate({
       passagers: data.map(({ passagers_bateau }) => passagers_bateau),
       km_train: data.map(({ km_train }) => km_train),
       km_tpr: data.map(({ km_tpr }) => km_tpr),
-      km_bateau: data.map(({ km_bateau }) => km_bateau)
+      km_bateau: data.map(({ km_bateau }) => km_bateau),
     },
     //Definition des axes y
     axes: {
@@ -45,5 +46,4 @@ bb.generate({
       label: 'Nombre de km parcouru (en million)',
     }
   },
-  bindto: '#graphiquePendulaire',
 })
