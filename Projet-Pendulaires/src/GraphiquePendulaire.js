@@ -4,7 +4,7 @@ import 'billboard.js/dist/billboard.css'
 const data = require('../data/data.json') ;
 
 bb.generate({
-  bindto: '#graphiquePendulaire',
+  
   data: {
     json: {
       passagers_train: data.map(({ passagers_train }) => passagers_train),
@@ -46,4 +46,5 @@ bb.generate({
       label: 'Nombre de km parcouru (en million)',
     }
   },
+  bindto: '#graphiquePendulaire',
 })
