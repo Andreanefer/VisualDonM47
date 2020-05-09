@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-UPDATE : Vendredi 8 mai 2020 à 16h36
-=======
 UPDATE : Vendredi 8 mai 2020 à 16h40
->>>>>>> 9d9c3cd5d8f66259a1495c92268b38e632540271
 
 **Concepte**
 Le graphique représente l'utilisation des transports publics en Suisse de l'année 1990, 1995 et de l'année 2000 jusqu'à 2018. Il est divisé en deux parties :
