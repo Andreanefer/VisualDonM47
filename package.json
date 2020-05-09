@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@turf/turf": "^5.1.6",
+    "billboard": "^1.0.0",
     "billboard.js": "^1.12.8",
     "cheerio": "^1.0.0-rc.3",
     "clt": "^0.1.2",
