@@ -2,20 +2,20 @@
   {
     "annee": 1990,
     "passagers_train": 341659,
-    "passagers_tpr": 0,
+    "passagers_tpr": "-",
     "passagers_bateau": 10001,
     "km_train": 12771,
-    "km_tpr": 0,
-    "km_bateau": 0
+    "km_tpr": "-",
+    "km_bateau": "-"
   },
   {
     "annee": 1995,
     "passagers_train": 297172,
-    "passagers_tpr": 0,
+    "passagers_tpr": "-",
     "passagers_bateau": 9984,
     "km_train": 11802.9,
-    "km_tpr": 0,
-    "km_bateau": 0
+    "km_tpr": "-",
+    "km_bateau": "-"
   },
   {
     "annee": 2000,
@@ -24,7 +24,7 @@
     "passagers_bateau": 11031,
     "km_train": 12689.8,
     "km_tpr": 3427.8,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2001,
@@ -33,7 +33,7 @@
     "passagers_bateau": 10955,
     "km_train": 13362.9,
     "km_tpr": 3605,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2002,
@@ -42,7 +42,7 @@
     "passagers_bateau": 10032,
     "km_train": 14208.5,
     "km_tpr": 3665.5,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2003,
@@ -51,7 +51,7 @@
     "passagers_bateau": 10955,
     "km_train": 14572,
     "km_tpr": 3756.3,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2004,
@@ -60,7 +60,7 @@
     "passagers_bateau": 11007,
     "km_train": 14978.6,
     "km_tpr": 3780.5,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2005,
@@ -69,7 +69,7 @@
     "passagers_bateau": 10960,
     "km_train": 16209.8,
     "km_tpr": 3857.9,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2006,
@@ -78,7 +78,7 @@
     "passagers_bateau": 11373,
     "km_train": 16645.9,
     "km_tpr": 3888.6,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2007,
@@ -87,7 +87,7 @@
     "passagers_bateau": 11177,
     "km_train": 17502.1,
     "km_tpr": 3963.5,
-    "km_bateau": 0
+    "km_bateau": "-"
   },
   {
     "annee": 2008,

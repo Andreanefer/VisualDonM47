@@ -26,9 +26,9 @@ bb.generate({
       passagers_train:"bar",
       passagers_tpr:"bar",
       passagers_bateau:"bar",
-      km_train:"line",
-      km_tpr:"line",
-      km_bateau:"line",
+      km_train:"bar",
+      km_tpr:"bar",
+      km_bateau:"bar",
     },
   },
   axis: {

@@ -8,11 +8,11 @@ const removeSemiColons = d =>
 
 const fixLine = line => line.trim().split(',')
   .map(removeSemiColons)
-  .map(d => isNaN(Number(d)) ? 0 : Number(d))
+  .map(d => isNaN(Number(d)) ? "-" : Number(d))
 
 const [ kmHead, ...kmLines] = kmsCsv.split('\n').map(fixLine)
 const [ pHead, ...pLines ] = passagersCsv.split('\n')
-  .map(line => line.split(',').map(d => isNaN(Number(d)) ? 0 : Number(d)))
+  .map(line => line.split(',').map(d => isNaN(Number(d)) ? "-" : Number(d)))
 
 const ajouterCles = prefix => d => ({
   annee: d[0],
@@ -32,3 +32,5 @@ const resultat = passagers.map(d => ({ ...d, ...chercherValeursKm(d.annee) }))
 console.log(
   JSON.stringify(resultat, null, 2)
 )
+
+//isNaN(Number(d)) ? 0 : Number(d)

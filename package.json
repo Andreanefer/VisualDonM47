@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "projet": "npx parcel Projet-Pendulaires/src/index.html --out-dir Projet-Pendulaires/dist",
     "batons": "parcel 20200228-Cours2-StuctureDeDonneesEnJS/src/index.html --out-dir 20200228-Cours2-StuctureDeDonneesEnJS/dist"
   },
   "repository": {
