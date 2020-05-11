@@ -1,4 +1,4 @@
-import bb from 'billboard';//tetete
+import bb from 'billboard.js'; //pronblème à cette ligne
 import 'billboard.js/dist/billboard.css'; //Dois-je mettre le chemin exacte ?
 
 
