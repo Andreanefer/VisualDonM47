@@ -1,4 +1,4 @@
-UPDATE : Vendredi 8 mai 2020 à 16h40
+UPDATE : Jeudi 14 mai à 12h58
 
 **Concepte**
 Le graphique représente l'utilisation des transports publics en Suisse de l'année 1990, 1995 et de l'année 2000 jusqu'à 2018. Il est divisé en deux parties :
@@ -16,10 +16,11 @@ TPR = Transports Publics Routiers
 - Graphique représentant le nombre de km parcouru en TPR
 - Graphique représentant le nombre de km parcouru en Bateau
 - **Les 6 jeux de données sont regroupées dans un seul graphique**
-
-**En cours**
 - Afficher le graphique
 
+**En cours**
+
+- Publier sur le web
 
 **Todo**
 - Completer le readme
@@ -36,12 +37,12 @@ J'ai repris les données qui m'intéréssé est je l'ai mises dans un autre docu
 
 - Un lien vers le code source de votre visualisation :
 
-https://github.com/Andreanefer/VisualDonM47/tree/master/Projet/
+https://github.com/Andreanefer/VisualDonM47/tree/master/Projet-Pendulaires/
 
 - Un lien vers votre visualisation publiée :
 
-https://andreanefer.github.io/src/index
+https://andreanefer.github.io/src/
 
 - Quel scripte je dois utiliser pour recréer le site à partir de votre code ?
 
-prepare.js
+npm run projet
