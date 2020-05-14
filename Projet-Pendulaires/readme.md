@@ -37,11 +37,11 @@ J'ai repris les données qui m'intéréssé est je l'ai mises dans un autre docu
 
 - Un lien vers le code source de votre visualisation :
 
-https://github.com/Andreanefer/VisualDonM47/tree/master/Projet-Pendulaires/
+https://github.com/Andreanefer/Andreanefer.github.io
 
 - Un lien vers votre visualisation publiée :
 
-https://andreanefer.github.io/src/
+https://andreanefer.github.io/dist/
 
 - Quel scripte je dois utiliser pour recréer le site à partir de votre code ?
 
