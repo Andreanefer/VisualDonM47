@@ -1,0 +1,18 @@
+div{
+    font-size: 14px;
+    color: rgb(37, 35, 35);
+    box-sizing: content-box;
+}
+
+html{
+    align-items: center;
+    margin: 2 rem;
+    margin-left: 2rem;
+    padding: 2rem;
+    justify-content: space-between;
+    background-color: rgb(131, 137, 141);
+}
+
+body{
+    background-color: rgb(131, 137, 141);
+}

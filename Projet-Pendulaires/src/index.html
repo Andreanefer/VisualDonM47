@@ -1,18 +1,75 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Projet-Pendulaire</title>
+  <meta name="author" content="Andrea Brandani" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="index.css" />
 </head>
 
 <body>
-  <h2>Graphique Pendulaire</h2>
-  <div id="graphiquePendulaire">
-
-    <p> </p>
+  <div id="intro" class="container-xl">
+    <h1>Trajets des pendulaires en transport public</h1>
+    <p> Mon projet a pour but de montrer l'évolution des déplacements des pendulaires prenant les transports public (TP). En Suisse, il y a plusieurs catégories qui regroupent les divers 
+      transports publics :
+      <ul id="listeCategorie" class="container-xl">
+        <li class="col-sm-4">Transports Ferroviaires :</li>
+        <ul>
+          <li>Train à voie normale</li>
+          <li>Train à voie étroite</li>
+          <li>Train à crémaillère</li>
+        </ul>
+        <li class="col-sm-4">Transports Publics Routiers (TPR) :</li>
+        <ul>
+          <li>Autobus</li>
+          <li>Trolleybus</li>
+          <li>Bus à Haute Niveau de Service (BHNS)</li>
+          <li>Tramway (y.c. Métro)</li>
+        </ul>
+        <li>Transports Maritimes :</li>
+        <ul>
+          <li>Bateau</li>
+          <li>Bacs</li>
+        </ul>
+      </ul>
+    </p>
   </div>
+  <div id="information" class="container-sm">
+    <p>
+      Le graphique présente deux informations : le nombre de voyageur par catégorie (éléments en batons sur le graphique) et le nombre total de kilomètre parcourus par catégorie (éléments en graphe sur le graphique) pour l'année 1990, 1995 et de l'année 2000 à 2018.
+      A noter que pour certaines années, certaines informations ne sont pas disponible.
+    </p>
+  </div>
+  <div id="affichage"class="container-sm">
+    <p>
+      <br>
+    </p>
+    <p>
+      Pour faciliter la lecture, vous pouvez cliquer sur la légende d'une catégorie afin de masquer ou d'afficher la catégorie sur le graphe : 
+    </p>
+  </div>
+  <div id="graphiquePendulaire" class="container-sm">
   <script src="index.js"></script>
+</div>
+<div id="explication"  class="container-sm">
+  <p<> <br> </p>
+  <p>Sur ce graphique nous pouvons observer que le nombre de passagers en train et en TPR ont augmenté au fil des années. Cette augmentation pourrait être expliquer 
+    par le fait que l'offre des transports publics a été augmenté et qu'une partie de la population n'utilse plus la voiture pour se rendre sur leur lieu de travail. 
+    Pour le trafic maritime, la situation est stable : il n'y a pas eu vraiement de grande augmentation ou diminution. Il est possible de faire une hypothèse : 
+    il se peut que se sont des étudiants qui utilise ce moyen de transport, notamment entre Evian-les-Bains et Lausanne afin de se rendre à l'EPFL, l'ECAL ou dans 
+    une autre école.
+  </p>
+</div>
+<div id="explication2" class="container-sm">
+  <p>Pour le nombre de kilomètre parcouru, il est observable que les pendulaires des trajets de plus longues distances en train depuis 1995 et en TPR depuis l'année 2000.
+    En ce qui concerne des voyages en bateau, il est possible qu'entre 2012 et 2013, une ligne a été peut-être fermé ce qui a provoqué une chute du nombre de kilomètre 
+    parcouru.
+  </p>
+</div>
+
 </body>
 
 </html>
