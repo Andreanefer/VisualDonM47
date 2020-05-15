@@ -6,7 +6,9 @@ Le graphique représente l'utilisation des transports publics en Suisse par les 
 - un graphique en graphe représentant le nombre de km total que les passagers/voyageurs qui ont parcourus avec les transports publics (train/TPR*/Bateau)
 
 ________
-* TPR = Transports Publics Routiers
+TPR = Transports Publics Routiers
+
+________
 
 **Done**
 - Graphique représentant le nombre de voyageur en Train
@@ -26,16 +28,17 @@ ________
 
 **Todo**
 
+________
 
 **Questions sur le projet**
 
 - D'où viennent les données (où, qui, pourquoi...) ?
 
-Les données viennent du site de l'office fédérale de la statistique (https://www.bfs.admin.ch/bfs/fr/home/statistiques/mobilite-transports/themes-transversaux/transports-publics.assetdetail.11207456.html). Ces données montrent l'évolution au fil du temps de l'augmentation de voyageur et de marchandises ainsi que l'impact qu'il y a autour des transports publics (Consomation d'énergie, surface utilisé, nombre d'employé, nombre d'entreprise, infrastructure, finance, ...). 
+Les données viennent du site de l'office fédérale de la statistique (https://www.bfs.admin.ch/bfs/fr/home/statistiques/mobilite-transports/themes-transversaux/transports-publics.assetdetail.11207456.html). Ces données montrent l'évolution au fil du temps de l'augmentation de voyageur et de marchandises ainsi que l'impact qu'il y a autour des transports publics (consomation d'énergie, surface utilisé, nombre d'employé, nombre d'entreprise, infrastructure, finance, ...). 
 
 - Comment ont-elles été transformées ?
 
-J'ai repris les données qui m'intéréssé est je l'ai mises dans un autre document en format csv, puis convertit en JSON
+J'ai repris les données qui m'intéréssaient. Pour chaque donnée, je les ai mis dans un document en format CSV. Puis, j'ai regroupé les données qui concerne le nombre de voyageur dans un autre document en format CSV et les données qui concernent le nombre de kilomètres dans un autre document en format CSV. Grâce au script prepare.js, j'ai pu réunir les deux jeux de données en un et le tout de convertir au format JSON.
 
 - Un lien vers le code source de votre visualisation :
 
